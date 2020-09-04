@@ -62,11 +62,9 @@ header {
     top: 12px;
     right: 14px;
 }
-
 #p2:hover {
 cursor: pointer;
 }
-
 #i1 {
     border: none;
     position: absolute;
